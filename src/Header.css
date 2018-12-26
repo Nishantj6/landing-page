@@ -1,0 +1,32 @@
+header {
+    margin-top: -40px;
+    
+    
+} 
+
+header h1{
+    margin: -25px;
+    text-align: center;
+    padding-top:60px;
+}
+
+header p{
+    margin-top: 60px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+header a{
+   
+    margin-left: 700px;
+    margin-top: 300px;
+    font-weight: 700;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    text-decoration: none;
+    background-color: #1d8097;
+    color: #fff;
+    padding:1.25rem 2.5rem;
+    
+}

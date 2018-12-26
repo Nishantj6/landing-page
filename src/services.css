@@ -1,0 +1,52 @@
+.servicemenu {
+    padding-top:120px;
+    padding-bottom: 120px;
+    background-color: #1d8097;
+}
+
+.servicemenu h3 {
+    font-size: 25px;
+    text-transform:  uppercase;
+    color: rgb(236, 184, 7);
+    text-align: center;
+
+}
+
+.servicemenu h2 {
+    text-align: center;
+    font-size:48px;
+}
+
+.row {
+    padding-left:40px;
+    padding-top: 60px;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row p{
+    font-size:20px;
+}
+
+.row h4{
+    font-size:30px;
+}
+
+.row span{
+    background-color: #fff;
+    width: 112px;
+    height:112px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 100px;
+    
+    
+}
+
+.row span i {
+    color:black;
+    contain: none;
+}
+
