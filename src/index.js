@@ -5,6 +5,7 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Navigation from './Navigation';
 import Headerson from './Header';
+import 'semantic-ui-css/semantic.min.css'
 import Services from './services';
 //import { base } from './firebase';
 
